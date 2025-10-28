@@ -256,7 +256,7 @@ function LandingPage() {
             {/* Greeting */}
             <div className="mb-8 text-center md:text-left">
               <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 animate-fade-in">
-                <span className="wave-animation inline-block">🙏</span>
+                <span className="wave-animation inline-block">👋🏼</span>
                 <span className="ml-3">Hello</span>
               </h1>
 
